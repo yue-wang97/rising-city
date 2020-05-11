@@ -1,0 +1,10 @@
+﻿  test.cpp
+d:\study\course\ads\project\project1\project1\minheap.hpp(175): warning C4101: “index”: 未引用的局部变量
+d:\study\course\ads\project\project1\project1\test.cpp(199): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+d:\study\course\ads\project\project1\project1\test.cpp(204): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+d:\study\course\ads\project\project1\project1\test.cpp(205): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+d:\study\course\ads\project\project1\project1\test.cpp(206): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+d:\study\course\ads\project\project1\project1\test.cpp(219): error C3867: “RBTree::preOrder”: 非标准语法；请使用 "&" 来创建指向成员的指针
+d:\study\course\ads\project\project1\project1\test.cpp(225): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+d:\study\course\ads\project\project1\project1\test.cpp(226): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+d:\study\course\ads\project\project1\project1\test.cpp(227): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据

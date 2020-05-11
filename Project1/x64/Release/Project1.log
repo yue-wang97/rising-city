@@ -1,0 +1,24 @@
+﻿  test.cpp
+d:\study\course\ads\project\project1\project1\MinHeap.h(141): warning C4101: “index”: 未引用的局部变量
+test.cpp(65): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(72): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(73): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(74): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(130): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(139): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(140): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(141): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(190): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(199): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(200): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(201): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(235): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(236): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+test.cpp(237): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  1 of 267 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project1.vcxproj -> D:\study\course\ads\project\Project1\x64\Release\Project1.exe
+  Project1.vcxproj -> D:\study\course\ads\project\Project1\x64\Release\Project1.pdb (Full PDB)
